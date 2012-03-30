@@ -1,0 +1,9 @@
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\bin\Debug\SEtest.exe
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\bin\Debug\SEtest.pdb
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\SEtest.Form1.resources
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\SEtest.Properties.Resources.resources
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\SEtest.exe
+C:\Documents and Settings\Rubecula\Hello-World\SEtest\SEtest\obj\x86\Debug\SEtest.pdb
